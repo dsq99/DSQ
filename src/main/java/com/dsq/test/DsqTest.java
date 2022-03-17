@@ -10,6 +10,7 @@ public class DsqTest {
         ArrayList<String> strings = DsqTool.readTxt("aaaa.txt");
         for (String string : strings) {
             System.out.println("string = " + string);
+            System.out.println("string = " + string);
         }
     }
 }
